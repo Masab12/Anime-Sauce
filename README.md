@@ -2,7 +2,8 @@
 
 Anime Sauce Finder is a modern web app that helps you identify the source of any anime screenshot or video clip. Upload an image or paste a URL, and instantly find the anime title, episode, and timestamp using the powerful [trace.moe](https://trace.moe/) API.
 
-![Anime Sauce Finder Screenshot](public/preview.png)
+![Anime Sauce Finder Screenshot] ![preview](https://github.com/user-attachments/assets/5c9d4eb4-8168-446f-9a8c-c16607ed4716)
+
 
 ---
 
